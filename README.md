@@ -1,6 +1,20 @@
 # ihcux-copa-2026
 
-sergio antonio - ra 326128163 - curso analise e desenvolvimento de software
+**Nome:** Lucas Gonçalves -  RA: 32617617 
+**Curso:** (Ciência da computação)
+
+**Nome:** Sergio Antonio - RA: 326128163 
+**Curso:** (Analise e Desenvolvimento de Sistemas) 
+
+**Nome:** Paulo André Lima Patrício – RA: 326128523
+**Curso:** (Analise e Desenvolvimento de Sistemas) 
+
+**Nome:** Miguel Oliveira Silva – RA: 326128330 
+**Curso:** (Analise e Desenvolvimento de Sistemas) 
+
+**Nome:**Arthur Carvalho Oliveira – RA: 32611916 
+**Curso:** (Analise e Desenvolvimento de Sistemas) 
+
 
 ## 1. Problema: O que o app resolve?
 O foco é acabar com a *perda de tempo e de lances importantes*. O torcedor não precisa mais sair da cadeira e perder o jogo para enfrentar filas de comida ou ficar na dúvida sobre um lance polêmico que não viu direito da arquibancada.
